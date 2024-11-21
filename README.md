@@ -13,7 +13,7 @@ In this project, we explore and predict customer churn for a banking institution
 
 ## Exploratory Data Analysis
 1. **Correlation Matrix**:
-   - Identifies no multicollinearity issue among features.
+   - Identifies no multicollinearity issue among the features.
 
 2. **Age Distribution Analysis**:
    - The graph suggests mid-aged individuals are more likely to churn.
